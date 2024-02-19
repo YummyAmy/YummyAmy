@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YummyAmy
 - 👀 I’m interested in data science
-- 💞️ I’m looking to collaborate on with other data scientists on creating models and projecting with AI
+- 💞️ I’m looking to collaborate with other data scientists on creating models and projecting with AI
 - 📫 How to reach me ameikpe@yahoo.com
 
 <!---
