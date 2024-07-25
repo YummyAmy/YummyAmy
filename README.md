@@ -39,6 +39,7 @@ I'm a passionate Data/Business Analyst with experience in data visualization and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameti-obong-u-395a25111/)](https://www.linkedin.com/in/ameti-obong-u-395a25111/)
 <a href="http://www.linkedin.com/in/ameti-obong-u-395a25111"><img src="https://simpleicons.org/icons/linkedin.svg" width="20" height="20"></a>
 
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark)](https://git.io/streak-stats)
