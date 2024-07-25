@@ -49,6 +49,11 @@ I'm a passionate Data/Business Analyst with experience in data visualization and
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical&title=GitHub%20Stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark&title=Current%20Streak)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp&title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 YummyAmy/YummyAmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
