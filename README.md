@@ -46,9 +46,10 @@ I'm a passionate Data/Business Analyst with experience in data visualization and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical&title= )
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark&title= )](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp&title= )](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical&title=GitHub%20Stats)
