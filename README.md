@@ -1,10 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YummyAmy&label=Profile%20views&color=800080&style=flat)
 
-# Hi 👋, I'm Amy!![datm girl for github](https://github.com/user-attachments/assets/e0c16bc2-6a17-4871-8d1d-829de24c716a)
+# Hi 👋, I'm Amy!
+
+![datm girl for github](https://github.com/user-attachments/assets/e0c16bc2-6a17-4871-8d1d-829de24c716a)
 
 <img width="393" alt="Screenshot 2024-11-19 at 12 12 38" src="https://github.com/user-attachments/assets/01ac921f-f747-4ec5-a8b1-eca72958e8a9">
-
-<img width="316" alt="Screenshot 2024-11-01 at 17 42 43" src="https://github.com/user-attachments/assets/eb4dfefe-2763-48bb-b689-1d2cb9f8daf9">
 
 
 I'm a Data/Business Analyst with experience in data visualization, machine learning, and artificial intelligence (AI).
