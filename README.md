@@ -15,7 +15,7 @@ I'm a Data/Business Analyst with experience in data visualization, machine learn
 
 👩🏽‍💻 I am studying to become a Tableau Certified Data Analyst
 
-👩🏽‍💻 I freelance on [Upwork](https://www.upwork.com/services/product/development-it-informed-analysis-to-facilitate-growth-and-productivity-for-your-business-1709970897400381440?ref=project_share) as a **data analyst** where I help client solve their business problems using **SQL, Python, and Tableau**
+👩🏽‍💻 I freelance on [**Upwork**](https://www.upwork.com/freelancers/amyu) as a **data analyst** where I help client solve their business problems using **SQL, Python, and Tableau**
 
 👀 I am upskilling to become a data scientist. 
 
