@@ -1,17 +1,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YummyAmy&label=Profile%20views&color=800080&style=flat)
 
 # Hi 👋, I'm Amy!
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/ameti-obong-u-395a25111/)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e0c16bc2-6a17-4871-8d1d-829de24c716a" width="400px">
 </div>
 
 <!-- <img src="https://github.com/user-attachments/assets/e0c16bc2-6a17-4871-8d1d-829de24c716a" width="393px"> -->
 
-I'm a Data/Business Analyst with experience in data visualization, machine learning, and artificial intelligence (AI).
+👩🏽‍💻 I'm a Data/Business Analyst with experience in data visualization, machine learning, and artificial intelligence (AI).
 
 🔭 I’m currently working on building a website with some of my best projects.
 
-👩🏽‍💻 I own a newsletter: _**www.dataaccordingtome.com**_ where I write about data analysis, data science, tips, processes, and everything data.
+🌱 I own a newsletter/channel: _**www.dataaccordingtome.com**_ where I write/share about data analysis, data science, tips, processes, and everything data.
 
 👩🏽‍💻 I am studying to become a Tableau Certified Data Analyst
 
@@ -19,9 +21,9 @@ I'm a Data/Business Analyst with experience in data visualization, machine learn
 
 👀 I am upskilling to become a data scientist. 
 
-👩🏽‍💻 Some of my projects are available here on GitHub, and my [Linktree](https://linktr.ee/ameusifoh) and [Medium](https://medium.com/@ameikpe)
+👩 Some of my projects are available on GitHub, and [Linktree](https://linktr.ee/ameusifoh) and [Medium](https://medium.com/@ameikpe)
 
-💞️ I’m looking to collaborate with other data scientists on creating models and projecting with AI
+📉 Looking to collaborate with other data scientists on creating models and projecting with AI
 
 💬 Ask me about Microsoft Excel, visualizations on Tableau, data management with MySQL, and EDAs with Python.
 
@@ -51,8 +53,9 @@ _[Work with me](https://linktr.ee/ameusifoh)_
 
 ## Contact 📫
 [![Yahoo Mail Badge](https://img.shields.io/badge/-Yahoo_Mail-purple?style=flat-square&logo=yahoo&logoColor=white&link=mailto:ameikpe@yahoo.com)](mailto:ameikpe@yahoo.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameti-obong-u-395a25111/)](https://www.linkedin.com/in/ameti-obong-u-395a25111/)
-<a href="http://www.linkedin.com/in/ameti-obong-u-395a25111"><img src="https://simpleicons.org/icons/linkedin.svg" width="20" height="20"></a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/ameti-obong-u-395a25111/)
+<!--- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameti-obong-u-395a25111/)](https://www.linkedin.com/in/ameti-obong-u-395a25111/) -->
+
 
 
 ## GitHub Stats
