@@ -63,6 +63,9 @@ _[Work with me](https://linktr.ee/ameusifoh)_
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark&title=Current%20Streak)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp&title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
+
+
 <!-- <img width="393" alt="Screenshot 2024-11-19 at 12 12 38" src="https://github.com/user-attachments/assets/01ac921f-f747-4ec5-a8b1-eca72958e8a9"> -->
 <!-- ![datm girl for github](https://github.com/user-attachments/assets/e0c16bc2-6a17-4871-8d1d-829de24c716a)-->
 <!---
