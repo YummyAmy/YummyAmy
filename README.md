@@ -46,7 +46,7 @@
 
 📉 Looking to collaborate with other data scientists on **AI models and projections**.
 
-💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, and Python-based EDAs**.
+💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, and EDA in Python**
 
 ⚡ Fun fact: I have an [Etsy shop](https://omomodesigns.etsy.com)
 
