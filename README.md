@@ -38,7 +38,7 @@
 
 👀 Currently upskilling to become a data scientist.
 
-📂 Some of my projects are available here, and on <a href="https://linktr.ee/ameusifoh" target="_blank">
+📂 Some of my projects are available here, and on <a href="https://linktr.ee/amyusifoh" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=Linktree&color=12100E&logo=linktree&logoColor=white" alt="Linktree Icon" style="max-width: 100%;">
 </a> <a href="https://medium.com/@ameikpe" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
