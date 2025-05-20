@@ -6,7 +6,7 @@
 <div align="center">
   <h1 class="heading-element"> Hi 👋, I'm Amy</h1>
 
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/ameti-obong-u-395a25111/) 
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/ameti-obong-u-395a25111/) 
   <a href="https://medium.com/@ameikpe" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
   </a>
@@ -24,19 +24,19 @@
 </div>
 
 ---
-👩🏽‍💻 **Data/business analyst** with experience in **data visualization**, **statistical analysis**, **machine learning**, and **AI**.
+👩🏽‍💻 **I'm a data/business analyst** with specialized skills in **automating workflows**, **visualization**, **statistical analysis**, **machine learning**, and **AI**.
 
 🔭 Currently working on **building a website** with some of my best projects.
 
-🌱 I own a newsletter/channel: [_www.dataaccordingtome.com_](https://www.dataaccordingtome.com) where I write/share insights about **data analysis, data science, tips, processes, and everything data**.
+🌱 I have a newsletter/channel: [_www.dataaccordingtome.com_](https://www.dataaccordingtome.com) where I enjoy writing/sharing insights about **data analysis, data science, tips, processes, and everything data**.
 
-👩🏽‍💻 Studying to become a *Tableau certified data analyst*.
+👩🏽‍💻 I am currently studying to become a *Tableau certified data analyst*.
 
 👩🏽‍💻 I freelance on <a href="https://www.upwork.com/freelancers/amyu" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Upwork&color=6FDA44&logo=upwork&logoColor=white" alt="Upwork Icon" style="max-width: 100%;">
   </a> as a **data analyst**, helping clients solve business problems using **SQL, SPSS, Python, and Tableau**.
 
-👀 Currently upskilling to become a data scientist.
+👀 Also upskilling to become a data scientist.
 
 📂 Some of my projects are available here, and on <a href="https://linktr.ee/amyusifoh" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=Linktree&color=12100E&logo=linktree&logoColor=white" alt="Linktree Icon" style="max-width: 100%;">
@@ -44,15 +44,15 @@
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
 </a>.
 
-📉 Looking to collaborate with other data scientists on **AI models and projections**.
+📉 I'm available for collaborations with other data analysts and data scientists on **AI models and projections**.
 
-💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, and EDA in Python**
+💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, EDA in Python, and workflow management**
 
 ⚡ Fun fact: I have an [Etsy shop](https://omomodesigns.etsy.com)
 
 
 
-## 🫱🏽‍🫲🏼 For business, consultations and collaborations
+## For business, consultations and collaborations
 [![Request Services](https://img.shields.io/badge/Request_Services-%234285F4?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/epuGXSNqobc3q8296)
 
 <!-- _[Business](https://linktr.ee/ameusifoh)_ -->
@@ -72,6 +72,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat-square&logo=snowflake&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-pink?style=flat-square&logo=asana&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-purple?style=flat-square&logo=canva&logoColor=white)
 
 ## 🛠 Data frameworks and tools
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
