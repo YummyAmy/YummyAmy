@@ -24,29 +24,27 @@
 </div>
 
 ---
-👩🏽‍💻 **I'm a data/business analyst** with specialized skills in **automating workflows**, **visualization**, **statistical analysis**, **machine learning**, and **AI**.
+👩🏽‍💻 **I'm a business/data analyst** and I specialize in **statistical analysis**, **n8n automations**, **automating workflows**, **dashboards**, , **machine learning**, and **AI**.
 
 🔭 Currently working on **building a website** with some of my best projects.
 
-🌱 I have a newsletter/channel: [_www.dataaccordingtome.com_](https://www.dataaccordingtome.com) where I enjoy writing/sharing insights about **data analysis, data science, tips, processes, and everything data**.
+🌱 My newsletter/channel: [_www.dataaccordingtome.com_](https://www.dataaccordingtome.com) where I teach mid-career professionals best practices on **business analysis, data science, processes, ETL pipelines**.
 
-👩🏽‍💻 I am currently studying to become a *Tableau certified data analyst*.
+👩🏽‍💻 I am studying to become a *Tableau certified data analyst* and a data scientist.
 
 👩🏽‍💻 I freelance on <a href="https://www.upwork.com/freelancers/amyu" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Upwork&color=6FDA44&logo=upwork&logoColor=white" alt="Upwork Icon" style="max-width: 100%;">
-  </a> as a **data analyst**, helping clients solve business problems using **SQL, SPSS, Python, and Tableau**.
+  </a> as a **data analyst**, helping clients solve business problems using **n8n, SQL, SPSS, Python, and Tableau**.
 
-👀 Also upskilling to become a data scientist.
-
-📂 Some of my projects are available here, and on <a href="https://linktr.ee/amyusifoh" target="_blank">
+📂 Some projects are available here, and on <a href="https://linktr.ee/amyusifoh" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=Linktree&color=12100E&logo=linktree&logoColor=white" alt="Linktree Icon" style="max-width: 100%;">
 </a> <a href="https://medium.com/@ameikpe" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
 </a>.
 
-📉 I'm available for collaborations with other data analysts and data scientists on **AI models and projections**.
+📉 I'm available for collaborations with other analysts and data scientists on **n8n automations, AI models and ML projects**.
 
-💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, EDA in Python, and workflow management**
+💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, Python scripts, and workflow management**
 
 ⚡ Fun fact: I have an [Etsy shop](https://omomodesigns.etsy.com)
 
