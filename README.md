@@ -24,13 +24,11 @@
 </div>
 
 ---
-👩🏽‍💻 **I'm a business/data analyst** and I specialize in **statistical analysis**, **n8n automations**, **automating workflows**, **dashboards**, , **machine learning**, and **AI**.
+👩🏽‍💻 **I'm a data scientist** skilled in **statistical analysis**, **n8n automations**, **automating workflows**, **dashboards**, , **ML**, and **AI**.
 
-🔭 Currently working on **building a website** with some of my best projects.
+🔭 Currently working on **building a website** with some of my projects.
 
-🌱 My newsletter/channel: [_www.dataaccordingtome.com_](https://www.dataaccordingtome.com) where I teach mid-career professionals best practices on **business analysis, data science, processes, ETL pipelines**.
-
-👩🏽‍💻 I am studying to become a *Tableau certified data analyst* and a data scientist.
+🌱 My newsletter/channel: [_www.dataaccordingtome.com_](https://www.dataaccordingtome.com) best practices on **data science, business analysis, automations, ML, creating in public**.
 
 👩🏽‍💻 I freelance on <a href="https://www.upwork.com/freelancers/amyu" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Upwork&color=6FDA44&logo=upwork&logoColor=white" alt="Upwork Icon" style="max-width: 100%;">
@@ -42,12 +40,11 @@
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
 </a>.
 
-📉 I'm available for collaborations with other analysts and data scientists on **n8n automations, AI models and ML projects**.
+📉 Available for collaborations on **n8n automations, AI models and ML projects**.
 
-💬 Ask me about **Excel, Tableau visualizations, MySQL data management, statistical analysis with SPSS, Python scripts, and workflow management**
+💬 Ask me about **Python scripts, notebooks, Excel, Tableau visualizations, MySQL data management, statistical analysis, and workflows**
 
 ⚡ Fun fact: I have an [Etsy shop](https://omomodesigns.etsy.com)
-
 
 
 ## For business, consultations and collaborations
