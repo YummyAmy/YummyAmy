@@ -48,7 +48,7 @@
 [![Request Services](https://img.shields.io/badge/Request_Services-%234285F4?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/epuGXSNqobc3q8296)
 
 <!-- _[Business](https://linktr.ee/ameusifoh)_ -->
-<a href="https://linktr.ee/ameusifoh" target="_blank">
+<a href="https://linktr.ee/amyusifoh" target="_blank">
   <img src="https://img.shields.io/badge/-Business-blue?style=flat-square&logo=google&logoColor=white" alt="Business">
 </a>
 
