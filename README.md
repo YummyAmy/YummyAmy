@@ -6,12 +6,9 @@
 <div align="center">
   <h1 class="heading-element"> Hi 👋, I'm Amy</h1>
 
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/ameti-obong-u-395a25111/) 
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/ame-u-395a25111/) 
   <a href="https://medium.com/@ameikpe" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/YummyAmy/YummyAmy" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub Icon" style="max-width: 100%;">
   </a>
   <a href="https://www.upwork.com/freelancers/amyu" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Upwork&color=6FDA44&logo=upwork&logoColor=white" alt="Upwork Icon" style="max-width: 100%;">
