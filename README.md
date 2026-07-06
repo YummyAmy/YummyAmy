@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YummyAmy&label=Profile%20views&color=800080&style=flat)
 
 <!--# Hi 👋, I'm Amy!  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/ameti-obong-u-395a25111/) -->
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/ame-u-395a25111/) -->
 
 <div align="center">
   <h1 class="heading-element"> Hi 👋, I'm Amy</h1>
@@ -81,7 +81,7 @@
 
 ## Contact 📫
 [![Yahoo Mail Badge](https://img.shields.io/badge/-Yahoo_Mail-purple?style=flat-square&logo=yahoo&logoColor=white&link=mailto:ameikpe@yahoo.com)](mailto:ameikpe@yahoo.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/ameti-obong-u-395a25111/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/ame-u-395a25111/)
 <!--- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameti-obong-u-395a25111/)](https://www.linkedin.com/in/ameti-obong-u-395a25111/) -->
 
 
