@@ -24,7 +24,7 @@
 </div>
 
 ---
-👩🏽‍💻 **I'm a data scientist** skilled in **statistical analysis**, **n8n automations**, **automating workflows**, **dashboards**, , **ML**, and **AI**.
+👩🏽‍💻 I'm a data scientist skilled in **statistical analysis**, **data/business analysis**, **building dashboards and reports**, **n8n automations**, **automating workflows**, **ML**, and **AI-workflows**.
 
 🔭 Currently working on **building a website** with some of my projects.
 
@@ -32,7 +32,7 @@
 
 👩🏽‍💻 I freelance on <a href="https://www.upwork.com/freelancers/amyu" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Upwork&color=6FDA44&logo=upwork&logoColor=white" alt="Upwork Icon" style="max-width: 100%;">
-  </a> as a **data analyst**, helping clients solve business problems using **n8n, SQL, SPSS, Python, and Tableau**.
+  </a> as a **data analyst**, helping clients solve business problems using **Python, Excel, SQL, SPSS, n8n, and Tableau**.
 
 📂 Some projects are available here, and on <a href="https://linktr.ee/amyusifoh" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=Linktree&color=12100E&logo=linktree&logoColor=white" alt="Linktree Icon" style="max-width: 100%;">
@@ -40,11 +40,11 @@
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
 </a>.
 
-📉 Available for collaborations on **n8n automations, AI models and ML projects**.
+📉 Available for collaborations on **n8n automations, AI models like Claude and Gemini, and ML projects**.
 
 💬 Ask me about **Python scripts, notebooks, Excel, Tableau visualizations, MySQL data management, statistical analysis, and workflows**
 
-⚡ Fun fact: I have an [Etsy shop](https://omomodesigns.etsy.com)
+⚡ Fun fact: I run. Like a lot, and I have an [Etsy shop](https://omomodesigns.etsy.com)
 
 
 ## For business, consultations and collaborations
@@ -82,7 +82,7 @@
 ## Contact 📫
 [![Yahoo Mail Badge](https://img.shields.io/badge/-Yahoo_Mail-purple?style=flat-square&logo=yahoo&logoColor=white&link=mailto:ameikpe@yahoo.com)](mailto:ameikpe@yahoo.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/ame-u-395a25111/)
-<!--- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameti-obong-u-395a25111/)](https://www.linkedin.com/in/ameti-obong-u-395a25111/) -->
+<!--- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ame-u-395a25111/)] -->
 
 
 ## GitHub stats
