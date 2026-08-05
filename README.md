@@ -37,14 +37,14 @@
     <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="max-width: 100%;">
 </a>.
 
-📉 Available for collaborations on **n8n automations, AI models like Claude and Gemini, and ML projects**.
+📉 Available for collaborations on **AI-powered apps, workflow automations (n8n), ML and data analytics projects**.
 
 💬 Ask me about **Python scripts, notebooks, Excel, Tableau visualizations, MySQL data management, statistical analysis, and workflows**
 
 ⚡ Fun fact: I run. Like a lot, and I have an [Etsy shop](https://omomodesigns.etsy.com)
 
 
-## For business, consultations and collaborations
+### For business, consultations and collaborations
 [![Request Services](https://img.shields.io/badge/Request_Services-%234285F4?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/epuGXSNqobc3q8296)
 
 <!-- _[Business](https://linktr.ee/ameusifoh)_ -->
@@ -53,36 +53,36 @@
 </a>
 
 
-## Languages
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-
-## Skills
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
+### Programming languages
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
+
+### Skills
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat-square&logo=snowflake&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-pink?style=flat-square&logo=asana&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-purple?style=flat-square&logo=canva&logoColor=white)
 
-## 🛠 Data frameworks and tools
+### tools
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
 
-## IDEs/editors I use
+### IDEs/editors
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-orange?style=flat-square&logo=sublime-text&logoColor=white)
 
-## Contact 📫
+### Contact 📫
 [![Yahoo Mail Badge](https://img.shields.io/badge/-Yahoo_Mail-purple?style=flat-square&logo=yahoo&logoColor=white&link=mailto:ameikpe@yahoo.com)](mailto:ameikpe@yahoo.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/ame-u-395a25111/)
 <!--- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ame-u-395a25111/)] -->
 
 
-## GitHub stats
+### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyAmy&show_icons=true&theme=radical&title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YummyAmy&theme=dark&title=Current%20Streak)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyAmy&layout=compact&theme=radical&hide=javascript,html,csharp&title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
